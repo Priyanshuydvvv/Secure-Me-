@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775262614953",
+    "project_id": "women-safetyy-app",
+    "storage_bucket": "women-safetyy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775262614953:android:c988a7b03ef2c158b3c0b8",
+        "android_client_info": {
+          "package_name": "com.mycompany.women"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSpeWimsS638A_rbBW3h55W6kHg9jggM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

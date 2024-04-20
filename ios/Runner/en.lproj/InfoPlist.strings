@@ -1,0 +1,7 @@
+NSFaceIDUsageDescription = "For your safety press on the allow ";
+NSCameraUsageDescription = "For your safety press on the allow ";
+NSContactsUsageDescription = "For your safety press on the allow ";
+NSLocationWhenInUseUsageDescription = "For your safety press on the allow ";
+NSMicrophoneUsageDescription = "For your safety press on the allow ";
+PermissionGroupNotification = "For your safety press on the allow ";
+NSPhotoLibraryUsageDescription = "For your safety press on the allow ";
