@@ -1,6 +1,3 @@
-
-Certainly! Here's the revised README.md file with the app name "Secure Me" included:
-
 Secure Me: Women Safety App
 Overview
 Secure Me is a mobile application aimed at enhancing the safety of women by providing various features such as SOS alerts, GPS integration, geofencing, panic room, and access to legal aid resources. The app is built using Flutter, allowing for cross-platform compatibility.
